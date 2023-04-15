@@ -24,8 +24,6 @@ https://youtube.com/shorts/JrXhiBMlGUs?feature=share
 # LCD_TFT bottom view & pinout
 ![Screenshot](/05.jpg)
 
-# Clear to blue screen after initialise ILI9341 FSMC 16bit TFT_LCD
-![Screenshot](/06.jpg)
 
 # *****************************************
 # *****************************************
